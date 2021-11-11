@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DataBaseSystems231@ec2-100-25-0-32.compute-1.amazonaws.com" uuid="39c4113a-1734-4691-963b-70a1565e9eaf">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://ec2-100-25-0-32.compute-1.amazonaws.com:3306/carlyg</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="DataBaseWorld@ec2-100-25-0-32.compute-1.amazonaws.com [2]" uuid="17712e9e-6fa3-4c27-9d15-36654140d05e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://ec2-100-25-0-32.compute-1.amazonaws.com:3306/world</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
